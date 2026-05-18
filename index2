@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Resume - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Maria Eduarda Melo</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Maria Eduarda
+                        <span class="text-primary">Melo</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        Estudante de Ciência de Dados em UniCEUB · (61) 991176422 ·
+                        <a href="mailto:name@email.com">madudamelo2@gmail.com</a>
+                    </div>
+                    <p class="lead mb-5">Estudante de Ciência de Dados com sólida base analítica e foco em inteligência de negócios. Possuo experiência prática na manipulação, limpeza e análise de grandes volumes de dados utilizando Python (Pandas), além de domínio na criação de dashboards dinâmicos e relatórios estratégicos no Power BI, transformando dados brutos em insights claros para a tomada de decisão.</p>
+                    <div class="social-icons">
+                        <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experiência</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Projetos em análise de dados e Machine Learning</h3>
+                            <div class="subheading mb-3">Soluções inteligentes</div>
+                            <p>Hackeando o futuro com uma cultura data-driven e foco total em gerar valor real. Go-to-market hoje é sobre transformar caos em infraestrutura: de um lado, construindo pipelines limpos e eficientes em Python (Pandas); do outro, entregando dashboards em Power BI que dão o track completo dos KPIs em tempo real. O goal final é um só: analytics ágil, insights acionáveis e domínio estratégico de ponta a ponta.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Fevereiro 2026 - Presente</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Cientista de Dados</h3>
+                            <div class="subheading mb-3">Soluções inteligentes</div>
+                            <p>O foco é identificar as oportunidades mais rápidas e práticas para gerar valor imediato com os dados. A ideia é rodar testes rápidos usando Python (Pandas) para validar hipóteses sem perda de tempo, conectando os dados brutos direto a uma estrutura ágil e automatizada. Essa imersão na análise fecha o ciclo perfeito: elimina o achismo e entrega relatórios visuais no Power BI focadas direto no resultado final e no crescimento da empresa.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Fevereiro 2026 - Presente</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Junior Web Designer</h3>
+                            <div class="subheading mb-3">Desenvolvendo sistemas</div>
+                            <p>Estruturei um modelo de trabalho focado em organizar processos e automatizar fluxos de dados do início ao fim. Para isso, desenvolvi um sistema genérico em Python que serve como base flexível para integrar diferentes fontes de informação e extrair indicadores-chave de desempenho de forma automática. O objetivo foi olhar o negócio com a agilidade de uma startup: mergulhar a fundo nos dados, conectar plataformas que antes não se conversavam e traduzir tudo em relatórios visuais no Power BI que garantem o controle total dos resultados a longo prazo.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Fevereiro 2026 - Presente</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Eventos Acadêmicos</h3>
+                            <div class="subheading mb-3">Organizando palestras em tecnologia</div>
+                            <p>Trabalho em total colaboração com a equipe responsável pelos projetos de palestras de TI no CEUB, aplicando uma visão estratégica para organizar e potencializar os eventos. Utilizo meu sistema genérico em Python para automatizar a gestão do público e o fluxo de informações, garantindo uma transição fluida desde a captação de participantes até o pós-evento. Para fechar o ciclo, traduzo todo o engajamento e o alcance dessas iniciativas em relatórios visuais dinâmicos no Power BI, permitindo que o time enxergue com clareza o impacto real e a evolução dos projetos no ambiente universitário.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Abril 2026 - Presente</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Educação</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Centro Interescolar de Línguas do Guará - CILG</h3>
+                            <div class="subheading mb-3">Intermediário em Inglês</div>
+                            <div>Produção de texto e conversação</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Fevereiro 2021 - Dezembro 2023</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Centro Universitário de Brasília - CEUB</h3>
+                            <div class="subheading mb-3">Bacharelado em Ciência de Dados</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Fevereiro 2026 - Presente</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Habilidades</h2>
+                    <div class="subheading mb-3">Linguagens de Programação & Ferramentas</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fab fa-html5"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-sass"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-less"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>
+                    </ul>
+                    <div class="subheading mb-3">Fluxo de Trabalho</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Desenvolvimento de Aplicações Web Responsivas
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Testes de Usabilidade e Otimização de Performance
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Trabalho em equipe e Comunicação Eficaz
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Modelos Ágeis e Scrum
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Interesses</h2>
+                    <p>Fora do universo da ciência de dados, passo a maior parte do meu tempo explorando novas frentes na programação, com um interesse especial no desenvolvimento em Java e nos conceitos de orientação a objetos. Quando não estou ajustando meu sistema em Python ou estruturando painéis no Power BI, gosto de me desafiar decifrando arquiteturas de software e entendendo como criar códigos cada vez mais limpos, estruturados e escaláveis.</p>
+                    <p class="mb-0">Quando estou focada em expandir meus horizontes, acompanho de perto os principais eventos, congressos e palestras de tecnologia. Gosto de usar meu tempo livre para absorver as discussões mais recentes do mercado, entender as novas tendências de inovação e, claro, fazer networking com outros profissionais da área. Participar ativamente desse ecossistema é o que me mantém atualizada e inspirada para trazer novas ideias para os meus projetos.</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Prêmios & Certificações</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Introdução a Desenvolvimento Web
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Fundamentos em Ciência da Computação
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Certificação em Análise de Dados com Power BI
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            
+                            <sup></sup>
+                            Certificação em Python para Análise de Dados
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            
+                            <sup></sup>
+                            Oficina de Java e Orientação a Objetos
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
