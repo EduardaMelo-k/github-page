@@ -1,5 +1,7 @@
 # Olá, eu sou a Maria Eduarda Melo! 👋
 
+ACESSE AO LINK DO MEU GIT HUB PAGES > https://eduardamelo-k.github.io/github-page/
+
 Estudante de **Ciência de Dados e Machine Learning** no Centro Universitário de Brasília (CEUB), focada em transformar dados brutos em inteligência estratégica e construir soluções eficientes.
 
 Aqui você encontrará um resumo das minhas competências técnicas, projetos acadêmicos, experiências colaborativas e meus objetivos profissionais na área de tecnologia.
