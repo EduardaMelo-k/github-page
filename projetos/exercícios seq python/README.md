@@ -1,58 +1,57 @@
-# Exercícios em Python
+# Exercícios de Sequência em Python
 
 ## Descrição
 
-Este repositório reúne exercícios, atividades e práticas desenvolvidas na linguagem Python com foco no aprendizado de programação, lógica computacional e desenvolvimento do raciocínio lógico.
+Este repositório contém exercícios de sequência desenvolvidos na linguagem Python, com foco na prática de lógica de programação e na resolução de problemas básicos.
 
-O conteúdo foi organizado para auxiliar estudantes durante o processo de aprendizagem, permitindo praticar conceitos fundamentais da linguagem por meio de exercícios simples e progressivos.
+As atividades foram organizadas para auxiliar no aprendizado gradual da linguagem, permitindo o desenvolvimento do raciocínio lógico por meio de exercícios simples e progressivos.
 
 ---
 
 # Conteúdo
 
-O repositório contém diferentes atividades relacionadas a:
+Os exercícios abordam conceitos fundamentais da programação, incluindo:
 
-- Lógica de programação
-- Estruturas básicas da linguagem
+- Entrada e saída de dados
 - Variáveis e operadores
-- Condicionais
+- Operações matemáticas
+- Estruturas condicionais
 - Estruturas de repetição
-- Funções
+- Algoritmos básicos
 - Exercícios sequenciais
-- Algoritmos simples
-- Práticas de programação
+- Práticas de lógica
 
 ---
 
 # Objetivo
 
-O principal objetivo deste material é servir como apoio para estudos e prática de programação em Python, contribuindo para o desenvolvimento do pensamento lógico e da resolução de problemas.
+O objetivo deste material é servir como apoio para estudos e prática da linguagem Python, contribuindo para o desenvolvimento da lógica de programação e da resolução de problemas.
 
 Os exercícios podem ser utilizados em:
 
 - Estudos individuais
 - Atividades acadêmicas
 - Revisão de conteúdos
-- Prática de lógica de programação
-- Introdução ao desenvolvimento de software
+- Introdução à programação
+- Prática de algoritmos básicos
 
 ---
 
 # Organização
 
-Os arquivos estão organizados de forma simples para facilitar a navegação e o acesso aos exercícios.
+Os arquivos estão organizados de forma simples para facilitar o acesso e a execução das atividades.
 
-Cada arquivo representa uma atividade ou prática desenvolvida durante os estudos da linguagem.
+Cada arquivo representa um exercício ou uma sequência prática desenvolvida durante os estudos.
 
 ---
 
 # Requisitos
 
-Para executar os arquivos é necessário possuir:
+Para executar os exercícios é necessário possuir:
 
-- Python 3 instalado no computador
+- Python 3 instalado
 
-Verificar versão instalada:
+Verificar versão:
 
 ```bash
 python --version
