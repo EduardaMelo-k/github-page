@@ -1,58 +1,71 @@
-# Exercícios em Python
+# Exercícios de Python e Java
 
 ## Descrição
 
-Este repositório reúne exercícios, atividades e práticas desenvolvidas na linguagem Python com foco no aprendizado de programação, lógica computacional e desenvolvimento do raciocínio lógico.
+Este repositório contém exercícios de sequência em Python e exercícios básicos em Java, desenvolvidos com foco no aprendizado de lógica de programação e conceitos fundamentais de desenvolvimento.
 
-O conteúdo foi organizado para auxiliar estudantes durante o processo de aprendizagem, permitindo praticar conceitos fundamentais da linguagem por meio de exercícios simples e progressivos.
+As atividades foram organizadas para auxiliar na prática da programação de forma gradual, permitindo o desenvolvimento do raciocínio lógico e da resolução de problemas.
 
 ---
 
 # Conteúdo
 
-O repositório contém diferentes atividades relacionadas a:
+## Python
 
-- Lógica de programação
-- Estruturas básicas da linguagem
+Exercícios de sequência envolvendo:
+
+- Entrada e saída de dados
 - Variáveis e operadores
+- Operações matemáticas
+- Estruturas condicionais
+- Estruturas de repetição
+- Algoritmos simples
+- Lógica de programação
+
+---
+
+## Java
+
+Exercícios básicos relacionados a:
+
+- Estrutura básica da linguagem
 - Condicionais
 - Estruturas de repetição
-- Funções
-- Exercícios sequenciais
-- Algoritmos simples
-- Práticas de programação
+- Operações matemáticas
+- Algoritmos introdutórios
+- Práticas de lógica
 
 ---
 
 # Objetivo
 
-O principal objetivo deste material é servir como apoio para estudos e prática de programação em Python, contribuindo para o desenvolvimento do pensamento lógico e da resolução de problemas.
+Este material possui finalidade educacional e tem como objetivo auxiliar no aprendizado das linguagens Python e Java por meio da prática de exercícios e atividades introdutórias.
 
-Os exercícios podem ser utilizados em:
+Os exercícios podem ser utilizados para:
 
 - Estudos individuais
+- Revisão de conteúdo
 - Atividades acadêmicas
-- Revisão de conteúdos
-- Prática de lógica de programação
-- Introdução ao desenvolvimento de software
+- Introdução à programação
+- Desenvolvimento do raciocínio lógico
 
 ---
 
 # Organização
 
-Os arquivos estão organizados de forma simples para facilitar a navegação e o acesso aos exercícios.
+Os arquivos estão organizados por linguagem e separados conforme as atividades desenvolvidas durante os estudos.
 
-Cada arquivo representa uma atividade ou prática desenvolvida durante os estudos da linguagem.
+Cada arquivo representa um exercício ou prática específica.
 
 ---
 
 # Requisitos
 
-Para executar os arquivos é necessário possuir:
+## Python
 
-- Python 3 instalado no computador
+- Python 3 instalado
 
-Verificar versão instalada:
+Verificar versão:
 
 ```bash
 python --version
