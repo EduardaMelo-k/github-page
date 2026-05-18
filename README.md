@@ -47,7 +47,7 @@ Quando estou focada em expandir meus horizontes, sou movida pela curiosidade e p
 
 Para conhecer meu perfil de forma ainda mais detalhada, você pode acessar minha documentação completa:
 - **[Meu Currículo Profissional](./Currículo.pdf):** Histórico acadêmico, competências comportamentais e objetivos na área de tecnologia.
-- **[Minha Apresentação Profissional](./APRESENTAÇÃO_PROFISSIONAL.pdf):** Portfólio visual com a demonstração das minhas competências iniciais, projetos acadêmicos e ambições profissionais.
+- **[Minha Apresentação Profissional](https://1drv.ms/p/c/1cc2354365853615/IQDe8AIU5O8MRLlRn34BgBSMAXSfeuNq1weXkC3eh2Hpk_o?e=N2qItZ):** Portfólio visual com a demonstração das minhas competências iniciais, projetos acadêmicos e ambições profissionais.
 
 ---
 
