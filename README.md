@@ -51,7 +51,7 @@ Para conhecer meu perfil de forma ainda mais detalhada, você pode acessar minha
 
 ## 📬 Vamos nos conectar?
 - **E-mail:** mariaeduardamelo@sempreceub.com / madudamelo2@gmail.com
-- **LinkedIn:** [mariaeduardamelo](https://linkedin.com/in/mariaeduardamelo)
+- **LinkedIn:** [mariaeduardamelo](www.linkedin.com/in/maria-eduarda-melo-484b18407)
 - **Telefone:** (61) 9 9117-6422
 
 ---
