@@ -26,8 +26,9 @@ O meu foco é identificar as oportunidades mais rápidas e práticas para gerar 
 
 ## Projetos & Destaques Acadêmicos
 
-### Sistema Genérico de Automação (Python)
-Desenvolvi um sistema genérico em Python estruturado para automatizar fluxos de dados e organizar processos do início ao fim. Esse sistema funciona como uma base flexível e reutilizável para integrar diferentes fontes de informação e extrair indicadores-chave de desempenho de forma automática.
+O meu portfólio reflete a aplicação prática da tecnologia para resolver problemas reais e automatizar processos de ponta a ponta. Entre os principais destaques, desenvolvi um **Sistema Genérico de Automação em Python** — utilizado na gestão e otimização de fluxos de dados em palestras de TI do CEUB —, e realizei uma **Análise de Dados Completa com Pandas**, focada na limpeza, engenharia de dados e transformação de conjuntos de dados de emendas parlamentares. Além disso, mantenho uma rotina contínua de consolidação lógica através de um repositório dedicado a **exercícios práticos em Python, Java e Pandas**, onde aprofundo conceitos de Programação Orientada a Objetos (POO), manipulação avançada de eixos e e-estruturas de dados, e tratamento de exceções, garantindo a criação de códigos limpos, resilientes e escaláveis.
+
+---
 
 ### Organização e Gestão de Palestras de TI (CEUB)
 Trabalho em total colaboração com a equipe responsável pelos projetos de palestras de TI dentro do ambiente universitário do CEUB. Aplico minhas habilidades técnicas para otimizar os eventos:
